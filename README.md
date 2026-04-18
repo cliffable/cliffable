@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Cliff Smith
 
-<!--
-**cliffable/cliffable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Engineer building real-world AWS systems.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS Solutions Architect Associate
+- Hands-on cloud projects
+- Architecture design and documentation
+- Automation and infrastructure skills
+
+## Featured Projects
+
+### cliffable.com
+Static portfolio website hosted on AWS using S3, CloudFront, Route 53 and ACM.
+
+### WordPress Migration to AWS Lightsail
+Migrated a live business website to AWS with backups, SSL and cost optimisation.
+
+## Links
+
+- Website: https://cliffable.com
+- LinkedIn: https://www.linkedin.com/in/cliff-smith-london/
+
+## Currently Building
+
+More AWS architecture projects, automation workflows and production-minded systems.
