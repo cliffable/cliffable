@@ -18,7 +18,7 @@ I'm transitioning into cloud engineering after more than 25 years running my own
 ### cliffable.com
 My portfolio and engineering-notes website, built as a serverless static site using Amazon S3, CloudFront, Route 53 and ACM.
 
-### Production WordPress Migration to AWS
+### [Production WordPress on AWS Lightsail](https://github.com/cliffable/wordpress-on-aws-lightsail)
 Migrated my live business website to Amazon Lightsail and subsequently added CloudFront, AWS WAF, Route 53, monitoring and automated backups.
 
 ### Event-Driven Website Monitoring
