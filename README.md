@@ -21,11 +21,11 @@ My portfolio and engineering-notes website, built as a serverless static site us
 ### [Production WordPress on AWS Lightsail](https://github.com/cliffable/wordpress-on-aws-lightsail)
 Migrated my live business website to Amazon Lightsail and subsequently added CloudFront, AWS WAF, Route 53, monitoring and automated backups.
 
+### [Secure AWS Infrastructure](https://github.com/cliffable/secure-aws-infrastructure)
+Designed and validated a private AWS architecture using EC2, bastion access, Gateway VPC Endpoints and least-privilege IAM.
+
 ### Event-Driven Website Monitoring
 Built an automated monitoring system using EventBridge Scheduler, AWS Lambda and Amazon SNS to detect website failures and send email alerts.
-
-### Serverless & Event-Driven AWS Projects
-Hands-on projects using Lambda, SQS, SNS, DynamoDB, API Gateway, Rekognition and other AWS services.
 
 ## Currently Working On
 
